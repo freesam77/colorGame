@@ -5,4 +5,4 @@ made with :
 - HTML
 - CSS
 - Bootstrap (Material Design)
-- Vanilla Javascript.
+- Vanilla Javascript
